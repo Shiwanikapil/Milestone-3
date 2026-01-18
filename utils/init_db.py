@@ -1,5 +1,5 @@
 # utils/init_db.py
-from database import db
+from utils.database import db
 
 def init_db():
     # Users: unique index on email

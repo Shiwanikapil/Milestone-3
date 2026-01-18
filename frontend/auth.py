@@ -36,6 +36,9 @@ st.markdown("""
 # ---------- AUTH PAGE ----------
 def show_auth_page():
 
+    with st.sidebar:
+     st.markdown("## 🔐Login / Sign Up")
+
     if "auth_mode" not in st.session_state:
         st.session_state.auth_mode = "signup"   # default signup
 
