@@ -72,7 +72,7 @@ Ai\_Project/
 
 
 
-\## 📜 Logging
+\## 📜 Loggine
 
 Logging supported via `config/logging\_config.py`.
 
