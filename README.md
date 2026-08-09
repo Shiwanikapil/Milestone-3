@@ -78,11 +78,6 @@ Logging supported via `config/logging\_config.py`.
 
 
 
-\## 🚀 Goal
-
-Build a scalable, modular AI project ready for further development.
-
-
 
 &nbsp;
 
