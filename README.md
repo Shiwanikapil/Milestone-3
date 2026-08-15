@@ -71,5 +71,11 @@ Ai\_Project/
 \- API keys never committed.
 
 
+\## 📜 Loggine
+
+Logging supported via `config/logging\_config.py`.
+
+
+
 
 
