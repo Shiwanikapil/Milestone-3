@@ -73,9 +73,5 @@ Ai\_Project/
 
 \## 📜 Loggine
 
-Logging supported via `config/logging\_config.py`.
-
-
-
 
 
