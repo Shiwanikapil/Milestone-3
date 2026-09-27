@@ -62,17 +62,3 @@ Ai\_Project/
 
 
 
-\## 🔐 Security
-
-\- `.env` file is ignored from Git.
-
-\- Passwords stored using bcrypt hashing.
-
-\- API keys never committed.
-\## 📜 Loggine..
-
-
-
-
-
-
