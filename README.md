@@ -58,7 +58,7 @@ Ai\_Project/
 
 │── config/ # Configuration files
 
-└── tests/ # Unit tests
+└── tests/ # Unit tests.
 
 
 
