@@ -1,6 +1,4 @@
-\# AI Project 
-
-
+\# AI Project
 
 \## 📌 Overview
 
